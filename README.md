@@ -7,9 +7,12 @@ Run like this:
 
  ./run.sh
 
-Dependencies:
+dependencies (print):
 * python
 * python-bobo
 * cups
 * lp
+
+dependencies (ssdp announce):
+* python-brisa (http://brisa.garage.maemo.org/doc/html/upnp/ssdp.html)
 
